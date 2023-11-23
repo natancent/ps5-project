@@ -1,0 +1,14 @@
+.box-container1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    height: 60px;
+    width: 60px;
+    background-color: tomato;
+}
+.image-section img{
+    margin-top: 5em;
+    height: 50vh;
+    width: 50%;
+}
