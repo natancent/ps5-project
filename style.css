@@ -1,6 +1,7 @@
 .box-container1{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 20px;
 }
 .box{
     height: 60px;
@@ -11,4 +12,8 @@
     margin-top: 5em;
     height: 50vh;
     width: 50%;
+}
+.two{
+    background-color: crimson;
+    border-radius: 50%;
 }
