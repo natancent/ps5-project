@@ -13,6 +13,9 @@
     height: 50vh;
     width: 50%;
 }
+button{
+    background-color: aqua;
+}
 .two{
     background-color: crimson;
     border-radius: 50%;
